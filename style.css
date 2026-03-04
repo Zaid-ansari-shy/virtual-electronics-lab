@@ -1,0 +1,12 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#111;
+color:white;
+}
+
+#workspace{
+border:2px solid white;
+height:400px;
+margin:20px;
+}
